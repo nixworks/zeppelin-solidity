@@ -66,7 +66,7 @@ Interested in contributing to OpenZeppelin?
 - [Coinfund](https://coinfund.io/)
 - [DemocracyEarth](http://democracy.earth/)
 - [Signatura](https://signatura.co/)
-- #![Ether.camp](http://www.ether.camp/)
+- [#! Ether.camp](http://www.ether.camp/)
 - [Aragon](https://aragon.one/)
 - [Wings](https://wings.ai/)
 
